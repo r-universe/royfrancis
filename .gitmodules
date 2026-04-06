@@ -6,3 +6,7 @@
 	path = pixture
 	url = https://github.com/royfrancis/pixture
 	branch = main
+[submodule "plummy"]
+	path = plummy
+	url = https://github.com/royfrancis/plummy
+	branch = main
