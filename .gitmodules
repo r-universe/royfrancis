@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/royfrancis/royfrancis.r-universe.dev
 	branch = HEAD
+[submodule "ggtargets"]
+	path = ggtargets
+	url = https://github.com/royfrancis/ggtargets
+	branch = main
 [submodule "pixture"]
 	path = pixture
 	url = https://github.com/royfrancis/pixture
